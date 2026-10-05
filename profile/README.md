@@ -47,7 +47,7 @@ Every wrong fix makes the checks better.
 <!-- stats:start -->
 | PRs filed | Merged | Orgs reached | Orgs scanned |
 |---:|---:|---:|---:|
-| 932 | 134 | 388 | 5,593 |
+| 928 | 134 | 387 | 5,593 |
 <!-- stats:end -->
 
 <sub>Updated daily. A hobby project run by <a href="https://github.com/Avicennasis">@Avicennasis</a>.
