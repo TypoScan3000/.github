@@ -1,0 +1,30 @@
+name: Opt out
+description: Stop TypoScan3000 from scanning or sending PRs to your org or repo.
+title: "Opt out: "
+labels: ["opt-out"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        No hard feelings. Once this is processed we won't scan or open PRs against what you list here.
+  - type: input
+    id: target
+    attributes:
+      label: GitHub org or repo
+      description: An org (`my-org`) or a single repo (`my-org/my-repo`).
+      placeholder: my-org
+    validations:
+      required: true
+  - type: dropdown
+    id: open-prs
+    attributes:
+      label: What about PRs we already opened?
+      options:
+        - Leave them, we'll review or close them ourselves
+        - Please close them
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: Anything else? (optional)

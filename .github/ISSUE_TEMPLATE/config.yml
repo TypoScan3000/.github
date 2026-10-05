@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Comment on a specific PR
+    url: https://github.com/pulls?q=is%3Apr+head%3ATypoScan3000
+    about: Questions about one PR are easiest to handle right on that PR.

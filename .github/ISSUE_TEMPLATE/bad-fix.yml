@@ -1,0 +1,19 @@
+name: Report a bad fix
+description: One of our PRs changed something that wasn't actually wrong.
+title: "Bad fix: "
+labels: ["bad-fix"]
+body:
+  - type: input
+    id: pr
+    attributes:
+      label: PR link
+      placeholder: https://github.com/owner/repo/pull/123
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: What was wrong with the change?
+      description: For example, the "typo" was a real identifier, a deliberate spelling, or generated code.
+    validations:
+      required: true
