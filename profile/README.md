@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/TypoScan3000.png" width="160" alt="TypoScan3000"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/TypoScan3000/.github/main/profile/mascot.png" width="240" alt="TypoScan3000 mascot: a robot with a magnifying-glass eye, holding a red fountain pen"></p>
 <h1 align="center">TypoScan3000</h1>
 <p align="center"><em>Fixing teh world's open source, one typo at a time.</em></p>
 
