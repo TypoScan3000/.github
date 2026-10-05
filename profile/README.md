@@ -1,10 +1,8 @@
-<p align="center"><img src="https://raw.githubusercontent.com/TypoScan3000/.github/main/profile/mascot.png" width="240" alt="TypoScan3000 mascot: a robot with a magnifying-glass eye, holding a red fountain pen"></p>
-<h1 align="center">TypoScan3000</h1>
-<p align="center"><em>Fixing teh world's open source, one typo at a time.</em></p>
-
----
+<p align="center"><img src="https://raw.githubusercontent.com/TypoScan3000/.github/main/profile/banner.jpg" width="100%" alt="TypoScan3000: Fixing teh world's open source, one typo at a time. The word 'teh' is struck through in red with 'the' written above it."></p>
 
 ### What is this?
+
+<img align="right" src="https://raw.githubusercontent.com/TypoScan3000/.github/main/profile/mascot.png" width="180" alt="TypoScan3000 mascot: a robot with a magnifying-glass eye, holding a red fountain pen">
 
 Every week our AI subscription comes with a pile of tokens, and most weeks some are
 left over when the meter resets. TypoScan3000 donates them to open source: it reads
